@@ -2,7 +2,6 @@ input.onButtonPressed(Button.A, function () {
     alarme = false
 })
 let alarme = false
-let nombre = 0
 let etat_actuel = 0
 let etat_passe = 0
 basic.forever(function () {
